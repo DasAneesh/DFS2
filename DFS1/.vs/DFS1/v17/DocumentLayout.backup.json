@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\TOP Acedemy programming\\MAIN PROJECT\\DFS1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6BE91D-C726-43BC-8D77-12EB45E8CE53}|DFS1\\DFS1.vcxproj|C:\\Programming\\TOP Acedemy programming\\MAIN PROJECT\\DFS1\\DFS1\\DFS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE6BE91D-C726-43BC-8D77-12EB45E8CE53}|DFS1\\DFS1.vcxproj|solutionrelative:DFS1\\DFS1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DFS1.cpp",
+              "DocumentMoniker": "C:\\Programming\\TOP Acedemy programming\\MAIN PROJECT\\DFS1\\DFS1\\DFS1.cpp",
+              "RelativeDocumentMoniker": "DFS1\\DFS1.cpp",
+              "ToolTip": "C:\\Programming\\TOP Acedemy programming\\MAIN PROJECT\\DFS1\\DFS1\\DFS1.cpp",
+              "RelativeToolTip": "DFS1\\DFS1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T06:13:02.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
